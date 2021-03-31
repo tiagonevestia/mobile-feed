@@ -44,6 +44,16 @@ Contribuições são bem vindas.
 - [Dribbble](https://dribbble.com/)
 - [Undraw](https://undraw.co/illustrations)
 
+## Ideias (en)
+
+- [Inspirational UI UX Patterns That Work](https://www.mobile-patterns.com/)
+- [App Ideas Collection](https://github.com/florinpop17/app-ideas/)
+
+## Figma (en)
+
+- [Figma UI kits, Templates & Freebies](https://www.figmacrush.com/)
+- [Figma Resources](https://www.figmaresources.com/)
+
 ## Bibliotecas
 
 #### Gerenciamento de Estados
